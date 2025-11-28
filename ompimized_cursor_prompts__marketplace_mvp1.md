@@ -1,4 +1,4 @@
-# MVP 1 — 10-Day Cursor Prompts (TDD + Token Optimized)
+# MVP 1 — 10-Day Cursor Prompts (TDD + Token Optimized) - use this [file open](https://github.com/Sukhrobjon/IlmAI.uz/blob/main/marketplace_ai_reference_card.md) as reference
 
 ## Prompt Rules
 - One task per prompt
